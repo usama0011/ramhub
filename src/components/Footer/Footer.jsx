@@ -18,9 +18,10 @@ const Footer = () => {
               <h1>RemHub</h1>
             </div>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor
-              libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat
-              et lectus vel ut sollicitudin elit at amet.
+              REAM HUB (SMC-PVT) LTD is a well-established printing paper
+              manufacturing company based in Lahore, Pakistan. We have been in
+              business since 2017, and we’re continuing to grow steadily, having
+              reached 15+ cities in the 6 years since our inception.
             </p>
           </Col>
           <Col md={3} sm={5} className="box">
@@ -47,10 +48,10 @@ const Footer = () => {
             <h2>Contact Us</h2>
             <ul>
               <li>
-                70 Washington Square South, New York, NY 10012, United States{" "}
+                PHA Flats Wafaqi Colony Near G-1 Market, Johar Town, Lahore{" "}
               </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Email: reamhubofficial@gmail.com</li>
+              <li>Phone: 0315-7129738</li>
             </ul>
           </Col>
         </Row>

@@ -19,7 +19,7 @@ const SliderHome = () => {
           <Slider {...settings}>
           {SliderData.map((value, index) => {
             return (
-              <SlideCard key={index} title={value.title} cover={value.cover} desc={value.desc} />
+              <SlideCard key={index} title={value.title} cover={value.cover} desc={value.desc} descone={value.descone} />
             )
           })}
         </Slider>

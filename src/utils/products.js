@@ -1,69 +1,73 @@
 import productImg01 from "../assets/one.jpeg";
-import productImg02 from "../assets/two.jpeg"
-import productImg03 from "../assets/three.jpeg"
+import productImg02 from "../assets/two.jpeg";
+import productImg03 from "../assets/three.jpeg";
 
-import productImg04 from "../assets/four.jpeg"
-import productImg05 from "../assets/five.jpeg"
-import productImg06 from "../assets/six.jpeg"
-import productImg007 from "../assets/seven.jpeg"
+import productImg04 from "../assets/four.jpeg";
+import productImg05 from "../assets/five.jpeg";
+import productImg06 from "../assets/six.jpeg";
+import productImg007 from "../assets/seven.jpeg";
 
-import productImg07 from "../assets/eight.jpeg"
-import productImg08 from "../assets/nine.jpeg"
-import productImg09 from "../assets/ten.jpeg"
-import productImg10 from "../assets/eleven.jpeg"
+import productImg07 from "../assets/eight.jpeg";
+import productImg08 from "../assets/nine.jpeg";
+import productImg09 from "../assets/ten.jpeg";
+import productImg10 from "../assets/eleven.jpeg";
 
-import phone01 from "../assets/tweleve.jpeg"
-import phone02 from "../assets/three.jpeg"
-import phone03 from "../assets/one.jpeg"
-import phone04 from "../assets/one.jpeg"
-import phone05 from "../assets/one.jpeg"
-import phone06 from "../assets/one.jpeg"
-import phone08 from "../assets/one.jpeg"
+import phone01 from "../assets/tweleve.jpeg";
+import phone02 from "../assets/three.jpeg";
+import phone03 from "../assets/one.jpeg";
+import phone04 from "../assets/one.jpeg";
+import phone05 from "../assets/one.jpeg";
+import phone06 from "../assets/one.jpeg";
+import phone08 from "../assets/one.jpeg";
 
-import watch01 from "../assets/one.jpeg"
-import watch02 from "../assets/one.jpeg"
-import watch03 from "../assets/one.jpeg"
-import watch04 from "../assets/one.jpeg"
+import watch01 from "../assets/one.jpeg";
+import watch02 from "../assets/one.jpeg";
+import watch03 from "../assets/one.jpeg";
+import watch04 from "../assets/one.jpeg";
 
-import wireless01 from "../assets/one.jpeg"
-import wireless02 from "../assets/one.jpeg"
-import wireless03 from "../assets/one.jpeg"
-import wireless04 from "../assets/one.jpeg"
+import wireless01 from "../assets/one.jpeg";
+import wireless02 from "../assets/one.jpeg";
+import wireless03 from "../assets/one.jpeg";
+import wireless04 from "../assets/one.jpeg";
 
-import sofaSlide from "../assets/one.jpeg"
-import watchSlide from "../assets/one.jpeg"
+import sofaSlide from "../assets/one.jpeg";
+import watchSlide from "../assets/one.jpeg";
 
 export const SliderData = [
   {
-      id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: sofaSlide,
+    id: 1,
+    title: "REAM HUB (SMC-PVT) LTD",
+    descone: "We Offer EASE",
+    desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
+    cover: sofaSlide,
   },
   {
-      id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: phone08,
+    id: 2,
+    title: "REAM HUB (SMC-PVT) LTD",
+    descone: "We Offer EASE",
+    desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
+    cover: phone08,
   },
   {
-      id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: wireless01,
+    id: 3,
+    title: "REAM HUB (SMC-PVT) LTD",
+    descone: "We Offer EASE",
+    desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
+    cover: wireless01,
   },
   {
-      id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
+    id: 4,
+    title: "REAM HUB (SMC-PVT) LTD",
+    descone: "We Offer EASE",
+    desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
+    cover: watchSlide,
   },
 ];
 
 export const serviceData = [
   {
-    icon: <ion-icon name="car"></ion-icon>,
-    title: "Free Shipping",
+    icon: <ion-icon name="headset"></ion-icon>,
+    title: "Customer Support",
     subtitle: "Lorem ipsum dolor sit amet.",
     bg: "#fdefe6",
   },
@@ -90,13 +94,13 @@ export const serviceData = [
 export const discoutProducts = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: "ECO PAPER",
     imgUrl: productImg01,
-    category: "sofa",
+    category: "ECO PAPER",
     price: 193,
-    discount:30,
+    discount: 30,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "•Good Run-Ability •Sharp Printing •Super Smooth Texture •Bright Appearance •Enhanced Copier Performance •Double Sided Use •Extended Documents Sheif Life •Eco Friendly LabeL •100% Wood Pulp •Affordable Price",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -109,11 +113,11 @@ export const discoutProducts = [
   },
   {
     id: "02",
-    productName: "Rivet Bigelow Modern ",
+    productName: "ECO PAPER",
     imgUrl: productImg02,
-    category: "sofa",
+    category: "ECO PAPER",
     price: 253,
-    discount:20,
+    discount: 20,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -136,7 +140,7 @@ export const discoutProducts = [
     imgUrl: productImg08,
     category: "chair",
     price: 89,
-    discount:15,
+    discount: 15,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -159,7 +163,7 @@ export const discoutProducts = [
     imgUrl: productImg09,
     category: "chair",
     price: 112,
-    discount:35,
+    discount: 35,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -182,7 +186,7 @@ export const discoutProducts = [
     imgUrl: phone03,
     category: "mobile",
     price: 599,
-    discount:10,
+    discount: 10,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -205,7 +209,7 @@ export const discoutProducts = [
     imgUrl: phone04,
     category: "mobile",
     price: 799,
-    discount:5,
+    discount: 5,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -222,8 +226,7 @@ export const discoutProducts = [
     ],
     avgRating: 4.8,
   },
-
-]
+];
 
 export const products = [
   {
@@ -541,12 +544,12 @@ export const products = [
 
   {
     id: "12",
-    productName: "Realme 8",
+    productName: "Double A",
     imgUrl: phone03,
-    category: "mobile",
+    category: "Imported Paper",
     price: 599,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      " Double A (Original) Size: A4 (210mm x 297mm) Substance: 80gsm. Brightness: 102-104% above.It is a premium paper brand known for its high quality, superior performance and sustainability",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -564,12 +567,12 @@ export const products = [
 
   {
     id: "13",
-    productName: "One Plus Nord",
+    productName: "BLC",
     imgUrl: phone04,
-    category: "mobile",
+    category: "Imported Paper",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "BLC's smooth surface ensures sharp, detailed copies, ideal for high-speed machines, with an ultra-white appearance for high print contrast and fade-resistance.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -587,12 +590,12 @@ export const products = [
 
   {
     id: "14",
-    productName: "Apple iPhone 13 Pro",
+    productName: "Copymate Plus",
     imgUrl: phone05,
-    category: "mobile",
+    category: "Locally Manufactured Paper",
     price: 899,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Copymate Plus is 100 percent Wood Pulp fiber-based Photocopy Paper, and is used for photocopier machines, laser printing, fax machines, making notes and other office equipment.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -610,12 +613,12 @@ export const products = [
 
   {
     id: "15",
-    productName: "Samsung Galaxy S22",
+    productName: "City Supreme",
     imgUrl: phone06,
-    category: "mobile",
+    category: "Locally Manufactured Paper",
     price: 699,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "This Supreme copy paper provides excellent image quality, high opacity, bulk and perfect whiteness. Ideal for double sided printing.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -725,12 +728,12 @@ export const products = [
 
   {
     id: "20",
-    productName: "Beat Studio Wireless",
+    productName: "City Plus",
     imgUrl: wireless01,
-    category: "wireless",
+    category: "Locally Manufactured Paper",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Smooth paper surface makes sharp printing.City Plus Perfectly acceptable white paper, suitable for photocopying, inkjet and laser printers.Simply the best quality paper at a very affordable price.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -748,12 +751,12 @@ export const products = [
 
   {
     id: "21",
-    productName: "Beat EP Headphones",
+    productName: "ARIA",
     imgUrl: wireless03,
-    category: "wireless",
+    category: "Imported Paper",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "ARIA offset is a top grade uncoated woodfree paper with excellent printability and runnability available in high-bright white shade.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -770,13 +773,13 @@ export const products = [
   },
   {
     id: "22",
-    productName: "Black Headphones",
+    productName: "Paper One",
     imgUrl: wireless02,
-    category: "wireless",
+    category: "Imported Paper",
     price: 169,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
+      "Paper One is a premium quality home and office paper for all printing and copying machines. Flexible paper Produce sharp and clear prints.",
+    descripption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
       {
@@ -792,12 +795,12 @@ export const products = [
   },
   {
     id: "23",
-    productName: "Bluetooth Headphones",
+    productName: "GIFTO",
     imgUrl: wireless04,
-    category: "wireless",
+    category: "Locally Manufactures Paper",
     price: 139,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "A medium-high-grammage paper designed for printing premium professional documents.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [

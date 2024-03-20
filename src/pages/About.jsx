@@ -1,6 +1,6 @@
 import React from "react";
 import Wrapper from "../components/wrapper/Wrapper";
-import { Container, Row } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 
 const About = () => {
   return (
@@ -20,17 +20,22 @@ const About = () => {
               <div class="row justify-content-xl-center">
                 <div class="col-12 col-xl-11">
                   <h2 class="h1 mb-3">Who Are We?</h2>
-                  <p class="lead fs-4 text-secondary mb-3">
-                    We help people to build incredible brands and superior
-                    products. Our perspective is to furnish outstanding
-                    captivating services.
+
+                  <p class="mb-5">
+                    REAM HUB (SMC-PVT) LTD is a well-established printing paper
+                    manufacturing company based in Lahore, Pakistan. We have
+                    been in business since 2017, and we’re continuing to grow
+                    steadily, having reached 15+ cities in the 6 years since our
+                    inception. Over the years, we have evolved along with our
+                    customer's needs to offer everything from offset imported to
+                    local paper — and everything in between.
                   </p>
                   <p class="mb-5">
-                    Nullam gravida orci ac luctus molestie. Fusce finibus congue
-                    erat, non aliquam magna tincidunt at. Aenean lacinia arcu
-                    ex, sed pharetra nibh porta a. Curabitur vel consequat nibh,
-                    ac interdum nisl. Nunc pulvinar nec massa vitae
-                    sollicitudin.
+                    We pride ourselves on our attention to detail, our
+                    ever-improving technology, and our technical and creative
+                    expertise. We use all this to ensure that your printing is
+                    of the highest quality, helping you put your best foot
+                    forward when talking to prospects.
                   </p>
                   <div class="row gy-4 gy-md-0 gx-xxl-5X">
                     <div class="col-12 col-md-6">
@@ -83,6 +88,90 @@ const About = () => {
                 </div>
               </div>
             </div>
+            <section className="wrapper background">
+              <h1 style={{fontWeight:'bold',marginBottom:30}}>Our Customers</h1>
+              <Container>
+                <Row>
+                  <Col
+                    md={3}
+                    sm={5}
+                    xs={9}
+                    style={{ backgroundColor: "" }}
+                    className="feature"
+                    key={1}
+                  >
+                    <img
+                      style={{
+                        width: "100%",
+                        height: 260,
+                        borderRadius: 10,
+                        objectFit: "contain",
+                      }}
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBQJJRaDxeUw5eg_ZjYxEnOJrvhStn-LqfA&usqp=CAU"
+                      alt=""
+                    />
+                  </Col>
+                  <Col
+                    md={3}
+                    sm={5}
+                    xs={9}
+                    style={{ backgroundColor: "" }}
+                    className="feature"
+                    key={1}
+                  >
+                    <img
+                      style={{
+                        width: "100%",
+                        height: 260,
+                        borderRadius: 10,
+                        objectFit: "contain",
+                      }}
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsXoAkUwS9TAONmtm9cPHDiyXvQJ-jBEq6LQ&usqp=CAU"
+                      alt=""
+                    />
+                  </Col>
+                  <Col
+                    md={3}
+                    sm={5}
+                    xs={9}
+                    style={{ backgroundColor: "" }}
+                    className="feature"
+                    key={1}
+                  >
+                    <img
+                      style={{
+                        width: "100%",
+                        height: 260,
+                        borderRadius: 10,
+                        objectFit: "contain",
+                      }}
+                      src="https://www.intelregion.com/wp-content/uploads/2021/02/COMSATS.jpg"
+                      alt=""
+                    />
+                  </Col>
+                  <Col
+                    md={3}
+                    sm={5}
+                    xs={9}
+                    style={{ backgroundColor: "" }}
+                    className="feature"
+                    key={1}
+                  >
+                    <img
+                      style={{
+                        width: "100%",
+                        height: 260,
+                        borderRadius: 10,
+                        objectFit: "contain",
+                      }}
+                      src="https://logosandtypes.com/wp-content/uploads/2021/02/Allied-Bank.png"
+                      alt=""
+                    />
+                  </Col>
+                </Row>
+             
+              </Container>
+            </section>
           </div>
         </div>
       </section>

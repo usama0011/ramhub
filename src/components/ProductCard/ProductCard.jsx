@@ -39,15 +39,17 @@ const ProductCard = ({ title, productItem }) => {
           <i className="fa fa-star"></i>
         </div>
         <div className="price">
-          <h4>${productItem.price}</h4>
-          <button
-            aria-label="Add"
-            type="submit"
-            className="add"
-            onClick={() => handelAdd(productItem)}
+          <div
+            onClick={() => handelClick()}
+            style={{
+              marginTop: "10px",
+              fontWeight: "bold",
+              textDecoration: "underline",
+              cursor: "pointer",
+            }}
           >
-            <ion-icon name="add"></ion-icon>
-          </button>
+            Learn More
+          </div>
         </div>
       </div>
     </Col>
