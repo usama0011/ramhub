@@ -33,60 +33,57 @@ import wireless04 from "../assets/one.jpeg";
 import sofaSlide from "../assets/one.jpeg";
 import watchSlide from "../assets/one.jpeg";
 
+import siderone from "../assets/bannerone.png";
+import slidertwo from "../assets/bannertwo.png";
+import sliderthree from "../assets/bannerthree.png";
+
 export const SliderData = [
   {
     id: 1,
     title: "REAM HUB (SMC-PVT) LTD",
-    descone: "We Offer EASE",
+    descone: "WE OFFER EASE",
     desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
-    cover: sofaSlide,
+    cover: siderone,
   },
   {
     id: 2,
     title: "REAM HUB (SMC-PVT) LTD",
-    descone: "We Offer EASE",
+    descone: "WE OFFER EASE",
     desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
-    cover: phone08,
+    cover: slidertwo,
   },
   {
     id: 3,
     title: "REAM HUB (SMC-PVT) LTD",
-    descone: "We Offer EASE",
+    descone: "WE OFFER EASE",
     desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
-    cover: wireless01,
-  },
-  {
-    id: 4,
-    title: "REAM HUB (SMC-PVT) LTD",
-    descone: "We Offer EASE",
-    desc: "Meet the Paper Manufacturer Business Company providing Supreme quality at wholesale price",
-    cover: watchSlide,
+    cover: sliderthree,
   },
 ];
 
 export const serviceData = [
   {
-    icon: <ion-icon name="headset"></ion-icon>,
+    icon: <ion-icon name="people-circle"></ion-icon>,
     title: "Customer Support",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "",
     bg: "#fdefe6",
   },
   {
-    icon: <ion-icon name="card"></ion-icon>,
-    title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    icon: <ion-icon name="logo-docker"></ion-icon>,
+    title: "Fast Delivery",
+    subtitle: "",
     bg: "#ceebe9",
   },
   {
     icon: <ion-icon name="shield-half-outline"></ion-icon>,
     title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "",
     bg: "#e2f2b2",
   },
   {
-    icon: <ion-icon name="headset"></ion-icon>,
-    title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    icon: <ion-icon name="storefront"></ion-icon>,
+    title: "Return Guarantee",
+    subtitle: "",
     bg: "#d6e5fb",
   },
 ];
@@ -114,7 +111,7 @@ export const discoutProducts = [
   {
     id: "02",
     productName: "ECO PAPER",
-    imgUrl: productImg02,
+    imgUrl: phone01,
     category: "ECO PAPER",
     price: 253,
     discount: 20,
@@ -136,8 +133,8 @@ export const discoutProducts = [
   },
   {
     id: "08",
-    productName: "Baltsar Chair",
-    imgUrl: productImg08,
+    productName: "ECO PAPER",
+    imgUrl: productImg09,
     category: "chair",
     price: 89,
     discount: 15,
@@ -157,82 +154,13 @@ export const discoutProducts = [
     ],
     avgRating: 4.7,
   },
-  {
-    id: "09",
-    productName: "Helmar Chair",
-    imgUrl: productImg09,
-    category: "chair",
-    price: 112,
-    discount: 35,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
-      {
-        rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.7,
-  },
-  {
-    id: "12",
-    productName: "Realme 8",
-    imgUrl: phone03,
-    category: "mobile",
-    price: 599,
-    discount: 10,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.8,
-  },
-  {
-    id: "13",
-    productName: "One Plus Nord",
-    imgUrl: phone04,
-    category: "mobile",
-    price: 799,
-    discount: 5,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.8,
-  },
 ];
 
 export const products = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
-    imgUrl: productImg01,
+    productName: "Double A",
+    imgUrl: productImg04,
     category: "sofa",
     price: 193,
     shortDesc:
@@ -250,8 +178,8 @@ export const products = [
 
   {
     id: "02",
-    productName: "Rivet Bigelow Modern ",
-    imgUrl: productImg02,
+    productName: "BLC",
+    imgUrl: productImg007,
     category: "sofa",
     price: 253,
     shortDesc:
@@ -273,7 +201,7 @@ export const products = [
 
   {
     id: "03",
-    productName: "Amazon Brand Modern Sofa",
+    productName: "CopyMate",
     imgUrl: productImg03,
     category: "sofa",
     price: 173,
@@ -295,7 +223,7 @@ export const products = [
   },
   {
     id: "26",
-    productName: "Rivet Bigelow Modern ",
+    productName: "City Plus ",
     imgUrl: productImg02,
     category: "sofa",
     price: 253,
@@ -317,8 +245,8 @@ export const products = [
   },
   {
     id: "04",
-    productName: "Fllufy Sheep Sofa",
-    imgUrl: productImg04,
+    productName: "City Supreme",
+    imgUrl: productImg08,
     category: "sofa",
     price: 163,
     shortDesc:
@@ -340,8 +268,8 @@ export const products = [
 
   {
     id: "05",
-    productName: "Faux Velvet Sofa",
-    imgUrl: productImg05,
+    productName: "Paper One",
+    imgUrl: productImg06,
     category: "sofa",
     price: 163,
     shortDesc:
@@ -363,8 +291,8 @@ export const products = [
 
   {
     id: "06",
-    productName: "Fllufy Sheep Sofa",
-    imgUrl: productImg06,
+    productName: "ARIA",
+    imgUrl: productImg07,
     category: "sofa",
     price: 163,
     shortDesc:
@@ -385,8 +313,8 @@ export const products = [
   },
   {
     id: "07",
-    productName: "Sakarias Armchair",
-    imgUrl: productImg07,
+    productName: "GIFTO",
+    imgUrl: productImg10,
     category: "chair",
     price: 99,
     shortDesc:
@@ -408,8 +336,8 @@ export const products = [
 
   {
     id: "27",
-    productName: "Modern Arm Sofa",
-    imgUrl: productImg007,
+    productName: "GIFTO",
+    imgUrl: productImg10,
     category: "sofa",
     price: 173,
     shortDesc:

@@ -1,6 +1,7 @@
 import React from "react";
 import Wrapper from "../components/wrapper/Wrapper";
 import { Col, Container, Row } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const About = () => {
   return (
@@ -37,7 +38,23 @@ const About = () => {
                     of the highest quality, helping you put your best foot
                     forward when talking to prospects.
                   </p>
-                  <div class="row gy-4 gy-md-0 gx-xxl-5X">
+                  <Link
+                    target="_blank"
+                    to={`https://wa.me/+923157129738`}
+                    style={{ textDecoration: "none", color: "unset" }}
+                  >
+                    <button
+                      style={{
+                        padding: "15px 25px",
+                        borderRadius: "5px",
+                        cursor: "pointer",
+                        fontWeight: "bold",
+                      }}
+                    >
+                      Contact Us
+                    </button>
+                  </Link>
+                  {/* <div class="row gy-4 gy-md-0 gx-xxl-5X">
                     <div class="col-12 col-md-6">
                       <div class="d-flex">
                         <div class="me-4 text-primary">
@@ -84,12 +101,14 @@ const About = () => {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
             <section className="wrapper background">
-              <h1 style={{fontWeight:'bold',marginBottom:30}}>Our Customers</h1>
+              <h1 style={{ fontWeight: "bold", marginBottom: 30 }}>
+                Our Customers
+              </h1>
               <Container>
                 <Row>
                   <Col
@@ -169,7 +188,6 @@ const About = () => {
                     />
                   </Col>
                 </Row>
-             
               </Container>
             </section>
           </div>

@@ -20,7 +20,7 @@ const ProductCard = ({ title, productItem }) => {
       {title === "Big Discount" ? (
         <span className="discount">{productItem.discount}% Off</span>
       ) : null}
-      <img
+      <img style={{borderRadius:"5px",overflow:'hidden'}}
         loading="lazy"
         onClick={() => handelClick()}
         src={productItem.imgUrl}

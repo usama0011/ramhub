@@ -7,7 +7,7 @@ const SlideCard = ({ title, desc,descone, cover }) => {
       <Row>
         <Col md={6}>
           <h1>{title}</h1>
-          <p style={{marginBottom:0,paddingBottom:0}}>{descone}</p>
+          <p style={{marginBottom:0,paddingBottom:0,fontFamily:'cursive'}}>{descone}</p>
           <p>{desc}</p>
           <button type="button" style={{marginBottom:10}} class="btn btn-dark mt-10 mb-10">
             View More
