@@ -99,7 +99,7 @@ export const discoutProducts = [
     shortDesc:
       "•Good Run-Ability •Sharp Printing •Super Smooth Texture •Bright Appearance •Enhanced Copier Performance •Double Sided Use •Extended Documents Sheif Life •Eco Friendly LabeL •100% Wood Pulp •Affordable Price",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.7,
@@ -116,9 +116,9 @@ export const discoutProducts = [
     price: 253,
     discount: 20,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "•Good Run-Ability •Sharp Printing •Super Smooth Texture •Bright Appearance •Enhanced Copier Performance •Double Sided Use •Extended Documents Sheif Life •Eco Friendly LabeL •100% Wood Pulp •Affordable Price",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -141,7 +141,7 @@ export const discoutProducts = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -161,12 +161,12 @@ export const products = [
     id: "01",
     productName: "Double A",
     imgUrl: productImg04,
-    category: "sofa",
+    category: "Imported Paper",
     price: 193,
     shortDesc:
-      "Lorem ipsum dolor samet consectetur adipisicing elit. Consequuntur iure quas illoit  voluptates labore tempore!",
+      "Double A (Original) Size: A4 (210mm x 297mm) Substance: 80gsm. Brightness: 102-104% above.It is a premium paper brand known for its high quality, superior performance and sustainability.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.7,
@@ -180,12 +180,12 @@ export const products = [
     id: "02",
     productName: "BLC",
     imgUrl: productImg007,
-    category: "sofa",
+    category: "Imported Paper ",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "BLC's smooth surface ensures sharp, detailed copies, ideal for high-speed machines, with an ultra-white appearance for high print contrast and fade-resistance.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -203,12 +203,11 @@ export const products = [
     id: "03",
     productName: "CopyMate",
     imgUrl: productImg03,
-    category: "sofa",
+    category: "Locally manufactured paper",
     price: 173,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    shortDesc: "",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Copymate Plus is 100 percent Wood Pulp fiber-based Photocopy Paper, and is used for photocopier machines, laser printing, fax machines, making notes and other office equipment.",
     reviews: [
       {
         rating: 4.6,
@@ -230,7 +229,7 @@ export const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -252,7 +251,7 @@ export const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -270,12 +269,12 @@ export const products = [
     id: "05",
     productName: "Paper One",
     imgUrl: productImg06,
-    category: "sofa",
+    category: "Imported Paper",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Paper One is a premium quality home and office paper for all printing and copying machines. Flexible paper Produce sharp and clear prints.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -293,12 +292,12 @@ export const products = [
     id: "06",
     productName: "ARIA",
     imgUrl: productImg07,
-    category: "sofa",
+    category: "Imported Paper",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "ARIA offset is a top grade uncoated woodfree paper with excellent printability and runnability available in high-bright white shade.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -315,12 +314,12 @@ export const products = [
     id: "07",
     productName: "GIFTO",
     imgUrl: productImg10,
-    category: "chair",
+    category: "Locally manufactured paper",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "A medium-high-grammage paper designed for printing premium professional documents.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -343,7 +342,7 @@ export const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -359,14 +358,14 @@ export const products = [
 
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: "City Supreme",
     imgUrl: productImg08,
     category: "chair",
     price: 89,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -382,14 +381,14 @@ export const products = [
 
   {
     id: "09",
-    productName: "Helmar Chair",
+    productName: "ECO PAPER",
     imgUrl: productImg09,
     category: "chair",
     price: 112,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -405,14 +404,14 @@ export const products = [
 
   {
     id: "10",
-    productName: "Apple iPhone 12 Pro",
+    productName: "Paper One",
     imgUrl: phone01,
     category: "mobile",
     price: 799,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -427,14 +426,14 @@ export const products = [
   },
   {
     id: "25",
-    productName: "Sakarias Armchair",
+    productName: "GIFTO",
     imgUrl: productImg10,
     category: "chair",
     price: 99,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.6,
@@ -449,14 +448,14 @@ export const products = [
   },
   {
     id: "11",
-    productName: "Apple iPhone 12 Max",
+    productName: "Paper One",
     imgUrl: phone02,
     category: "mobile",
     price: 799,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -479,7 +478,7 @@ export const products = [
     shortDesc:
       " Double A (Original) Size: A4 (210mm x 297mm) Substance: 80gsm. Brightness: 102-104% above.It is a premium paper brand known for its high quality, superior performance and sustainability",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -502,7 +501,7 @@ export const products = [
     shortDesc:
       "BLC's smooth surface ensures sharp, detailed copies, ideal for high-speed machines, with an ultra-white appearance for high print contrast and fade-resistance.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -525,7 +524,7 @@ export const products = [
     shortDesc:
       "Copymate Plus is 100 percent Wood Pulp fiber-based Photocopy Paper, and is used for photocopier machines, laser printing, fax machines, making notes and other office equipment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -543,12 +542,12 @@ export const products = [
     id: "15",
     productName: "City Supreme",
     imgUrl: phone06,
-    category: "Locally Manufactured Paper",
+    category: "Locally manufactured paper",
     price: 699,
     shortDesc:
-      "This Supreme copy paper provides excellent image quality, high opacity, bulk and perfect whiteness. Ideal for double sided printing.",
+      "Supreme copy paper provides excellent image quality, high opacity, bulk and perfect whiteness. Ideal for double sided printing..",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -564,14 +563,14 @@ export const products = [
 
   {
     id: "16",
-    productName: "Rolex Watch",
+    productName: "ECO PAPER",
     imgUrl: watch01,
     category: "watch",
     price: 299,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -587,14 +586,14 @@ export const products = [
 
   {
     id: "17",
-    productName: "Timex Easy Reader Watch",
+    productName: "ECO PAPER",
     imgUrl: watch02,
     category: "watch",
     price: 299,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -610,14 +609,14 @@ export const products = [
 
   {
     id: "18",
-    productName: "Rolex Watch",
+    productName: "ECO PAPER",
     imgUrl: watch03,
     category: "watch",
     price: 299,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -633,14 +632,14 @@ export const products = [
 
   {
     id: "19",
-    productName: "Apple Watch",
+    productName: "ECO PAPER",
     imgUrl: watch04,
     category: "watch",
     price: 399,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -663,7 +662,7 @@ export const products = [
     shortDesc:
       "Smooth paper surface makes sharp printing.City Plus Perfectly acceptable white paper, suitable for photocopying, inkjet and laser printers.Simply the best quality paper at a very affordable price.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -686,7 +685,7 @@ export const products = [
     shortDesc:
       "ARIA offset is a top grade uncoated woodfree paper with excellent printability and runnability available in high-bright white shade.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -708,7 +707,7 @@ export const products = [
     shortDesc:
       "Paper One is a premium quality home and office paper for all printing and copying machines. Flexible paper Produce sharp and clear prints.",
     descripption:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,
@@ -730,7 +729,7 @@ export const products = [
     shortDesc:
       "A medium-high-grammage paper designed for printing premium professional documents.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our ream papers are known for their exceptional quality, offering bright white color, smooth texture, and excellent ink absorption. With high opacity and durability, they provide a professional look while preventing show-through or tearing. We offer various weight options to suit your needs and our papers are certified by environmental organizations for sustainability. Compatible with different printers and copiers, our ream papers ensure hassle-free printing. Trust in our strict quality control measures to deliver consistent excellence with every sheet in each pack. Choose our ream papers for a superior writing/printing experience that is eco-conscious too.",
     reviews: [
       {
         rating: 4.8,

@@ -38,17 +38,11 @@ const ProductDetails = ({ selectedProduct }) => {
               <span>{selectedProduct?.avgRating} ratings</span>
             </div>
             <div className="info">
-              <span className="price">${selectedProduct?.price}</span>
+             
               <span>category:{selectedProduct?.category}</span>
             </div>
             <p>{selectedProduct?.shortDesc}</p>
-            <input
-              className="qty-input"
-              type="number"
-              placeholder="Qty"
-              value={quantity}
-              onChange={handleQuantityChange}
-            />
+          
             <Link
               target="_blank"
               to={`https://wa.me/+923157129738`}
